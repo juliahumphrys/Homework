@@ -31,7 +31,7 @@ permalink: /HW2/
 | Command      | Description | 
 | ---:        |    :---   |
 | git add      | Stage changes for commit       |
-| git command   | Record changes to the repository        |
+| git commit   | Record changes to the repository        |
 | git push    | Upload local repository content to a remote repository  |
 
 > This is a quote
